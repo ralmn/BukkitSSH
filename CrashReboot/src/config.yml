@@ -1,0 +1,5 @@
+crash:
+    cmd: "ls"
+    user: root
+    pwd: ''
+    host: localhost
